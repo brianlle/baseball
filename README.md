@@ -1,2 +1,2 @@
 # baseball
-An investigation of baseball records from 1871 to 2015
+Using Python, I performed an investigation of baseball records from 1871 to 2015 to find out if batting statistics were dependent upon age. I also investigated the differences in batting performance between designated hitters and pitchers and found, as expected, that designated hitters perform significantly better than pitchers at batting. The full results of my analysis can be found in baseball.html
